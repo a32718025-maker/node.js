@@ -1,0 +1,20 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "This is my first nodejs project",
+  "license": "ISC",
+  "author": "Anushka Tyagi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "a": "^4.0.8",
+    "figlet": "^1.11.2",
+    "give": "^2.0.0",
+    "give-me-a-joke": "^0.5.1",
+    "joke": "^0.0.1-1",
+    "me": "^0.3.0"
+  }
+}
